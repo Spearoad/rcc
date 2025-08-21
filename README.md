@@ -6,3 +6,4 @@
 분류 모델은 EfficientNet-B3 모델을 사용했고, 탐지 모델은 YOLOv5m 모델을 사용하였습니다.
 분류 모델은 도로의 파손 여부를 분류하고 정상 또는 파손됨으로 분류합니다.
 이때 파손됨으로 분류되면 탐지 모델이 해당 사진을 이어받는데, 파손된 부분을 이미지에서 표시해서 보여줍니다.
+![Confusion Matrix](confusion_matrix_normalized.png)
