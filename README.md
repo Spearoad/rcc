@@ -10,7 +10,7 @@
 탐지 모델의 혼동 행렬
 ![Confusion Matrix](confusion_matrix_normalized.png)
 
-모델 검증
+탐지 모델 검증
 | 실제 | 예측 |
 |:---:|:---:|
 | <img src="val_batch0_labels.jpg" width="1024"/> | <img src="val_batch0_pred.jpg" width="1024"/> |
