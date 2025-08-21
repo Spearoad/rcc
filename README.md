@@ -11,7 +11,11 @@
 ![Confusion Matrix](confusion_matrix_normalized.png)
 
 모델 검증
-<p align="center">
-  <img src="val_batch0_labels.jpg" alt="Batch 0 Labels" width="45%"/>
-  <img src="val_batch0_pred.jpg" alt="Batch 0 Predictions" width="45%"/>
-</p>
+<div align="center">
+
+<p><b>실제</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>예측</b></p>
+
+<img src="val_batch0_labels.jpg" alt="Batch 0 Labels" width="45%" style="margin-right:20px;"/>
+<img src="val_batch0_pred.jpg" alt="Batch 0 Predictions" width="45%"/>
+
+</div>
