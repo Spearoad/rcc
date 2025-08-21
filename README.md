@@ -7,10 +7,11 @@
 분류 모델은 도로의 파손 여부를 분류하고 정상 또는 파손됨으로 분류합니다. <br>
 이때 파손됨으로 분류되면 탐지 모델이 해당 사진을 이어받는데, 파손된 부분을 이미지에서 표시해서 보여줍니다. <br>
 <br>
+분류 모델의 혼동 행렬 <br>
+![cs_Confusion_Matrix](cs_confusion_matrix.png) <br>
 탐지 모델의 혼동 행렬  <br>
 ![Confusion Matrix](confusion_matrix_normalized.png) <br>
-
-탐지 모델 검증
+탐지 모델 검증 <br>
 | 실제 | 예측 |
 |:---:|:---:|
 | <img src="val_batch0_labels.jpg" width="1024"/> | <img src="val_batch0_pred.jpg" width="1024"/> |
