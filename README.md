@@ -13,6 +13,6 @@
 모델 검증
 | 실제 | 예측 |
 |:---:|:---:|
-| <img src="val_batch0_labels.jpg" width="400"/> | <img src="val_batch0_pred.jpg" width="400"/> |
-| <img src="val_batch1_labels.jpg" width="1024"/> | <img src="val_batch1_pred.jpg" width="400"/> |
-| <img src="val_batch2_labels.jpg" width="700"/> | <img src="val_batch2_pred.jpg" width="700"/> |
+| <img src="val_batch0_labels.jpg" width="1024"/> | <img src="val_batch0_pred.jpg" width="1024"/> |
+| <img src="val_batch1_labels.jpg" width="1024"/> | <img src="val_batch1_pred.jpg" width="1024"/> |
+| <img src="val_batch2_labels.jpg" width="1024"/> | <img src="val_batch2_pred.jpg" width="1024"/> |
