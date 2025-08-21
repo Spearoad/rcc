@@ -11,7 +11,7 @@
 ![Confusion Matrix](confusion_matrix_normalized.png)
 
 모델 검증
-  실제
-  ![Batch 0 Labels](val_batch0_labels.jpg)
-  예측
-  ![Batch 0 Predictions](val_batch0_pred.jpg)
+<p align="center">
+  <img src="val_batch0_labels.jpg" alt="Batch 0 Labels" width="45%"/>
+  <img src="val_batch0_pred.jpg" alt="Batch 0 Predictions" width="45%"/>
+</p>
